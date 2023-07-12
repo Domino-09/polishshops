@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f1d69d5e
 license: GPL-2.0
+name: polishshops
 type: industry
+url: https://github.com/Domino-09/polishshops
 version: 6
